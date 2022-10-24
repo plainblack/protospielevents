@@ -41,7 +41,21 @@
       </div>
 
     </div>
-</div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+          </li>
+          <li class="nav-item">
+            <a href="https://github.com/plainblack/protospielevents/issues" class="nav-link">Report Problem</a> 
+          </li>
+          <li class="nav-item">
+            <a href="https://github.com/plainblack/protospielevents" class="nav-link">Source Code</a> 
+          </li>
+        </ul>
+    </div>
+  </nav>
 </template>
 
 <script lang="ts">
