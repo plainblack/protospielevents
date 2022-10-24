@@ -1,5 +1,11 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 import HomeView from "../views/HomeView.vue";
+import AttendingView from "../views/AttendingView.vue";
+import OrganizingView from "../views/OrganizingView.vue";
+import MarketingView from "../views/MarketingView.vue";
+import UpcomingEventsView from "../views/UpcomingEventsView.vue";
+import BingoView from "../views/BingoView.vue";
+import PoliciesView from "../views/PoliciesView.vue";
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -8,13 +14,39 @@ const routes: Array<RouteRecordRaw> = [
     component: HomeView,
   },
   {
-    path: "/about",
-    name: "about",
+    path: "/attending",
+    name: "attending",
+    component: AttendingView,
     // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
+    // this generates a separate chunk (attending.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+//    component: () =>
+  //    import(/* webpackChunkName: "attending" */ "../views/AttendingView.vue"),
+  },
+  {
+    path: "/organizing",
+    name: "organizing",
+    component: OrganizingView,
+  },
+  {
+    path: "/marketing",
+    name: "marketing",
+    component: MarketingView,
+  },
+  {
+    path: "/upcoming-events",
+    name: "upcomingevents",
+    component: UpcomingEventsView,
+  },
+  {
+    path: "/policies",
+    name: "policies",
+    component: PoliciesView,
+  },
+  {
+    path: "/bingo",
+    name: "bingo",
+    component: BingoView,
   },
 ];
 
