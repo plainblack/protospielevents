@@ -25,7 +25,7 @@
     
     <h2>So you want to run a Protospiel?</h2>
     
-    <p>This site is dedicated to people thinking about <a href="/organizing">running their own Protospiel-style event</a>. The pages in the navigation (at the top of the page) will teach you everything you need to know about Protospiel to run one.</p>
+    <p>This site is dedicated to people thinking about <router-link to="/organizing">running their own Protospiel-style event</router-link>. The pages in the navigation (at the top of the page) will teach you everything you need to know about Protospiel to run one.</p>
 
   </div>
 </template>
