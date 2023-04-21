@@ -14,6 +14,10 @@
     <p><img src="../assets/look.jpg" alt="what protospiel looks like" class="img-fluid"></p>
     
     <p>Generally there are 50 to 200 people. A mix of about 60% game designers and 40% play testers (though that varies with each con). Ages range from 12 to 70. Early on it was almost exclusively a male crowd for some reason, but we're happy to say that is changing with about 10-20% of attendees being female now. </p>
+
+     <h2>How does a Protospiel function?</h2>
+     <p>Game designers and play testers show up at a venue secured by an organizer. The venue is generally set up with 2.5 x 6 foot tables with 4 chairs split on either side of the table. A designer will set up a game on a table, and round up a few people to play with them. The designer will generally spend 5 to 10 minutes explaining the game, and then players will play. After 45 minutes (or less) of play, the game will be ended and players will be asked to give feedback about what they liked and didn't like about the game. Then the game will be torn down, and a new game set up. Often this will consist of people already at the table, just with another person from the table getting out the next game.</p>
+     <p>One thing that may be surprising is that Protospiels have no defined schedule other than the hours of operation. There are no assigned tables either. Games are simply set up, played, torn down, and then you repeat that process for the duration of the convention.</p>
     
     <h2>Who owns Protospiel?</h2>
     
