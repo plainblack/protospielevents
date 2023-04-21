@@ -21,6 +21,8 @@
     <h2>Venue Layout</h2>
     
     <p>Most hotels will not have a default table setup that will work for a game convention. You'll need to get specific with them. What you are looking for are 30 inch by 6 foot tables with 2 chairs on each side. </p>
+
+    <p>You should reserve a table for yourself near the registration desk. This way you will get to play your games while also being able to hand out badges to people as they show up.</p>
     
     <p>If you want, you can include a couple of 8 rounds, but those aren't as convenient, and won't get used as much. Plus 8 rounds take up a lot more space.</p>
     
