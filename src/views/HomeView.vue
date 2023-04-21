@@ -21,7 +21,7 @@
     
     <h2>Who owns Protospiel?</h2>
     
-    <p>No one owns Protospiel. It was started in 2001 by Stephen Glenn, Dominic Crapuchettes, and Mike Petty. These days David Whitcher is the unofficial patriarch and, as such, controls the <a href="https://twitter.com/protospiel">@Protospiel Twitter</a> account and the <a href="https://www.facebook.com/groups/2261144717/">Protospiel Facebook group</a>.</p>
+    <p>No one owns Protospiel. It was started in 2001 by Stephen Glenn, Dominic Crapuchettes, and Mike Petty. David Whitcher was the unofficial patriarch of Protospiel for more than a decade. Now with so many Protospiels there isn't really one. Brett Myers now controls the <a href="https://twitter.com/protospiel">@Protospiel Twitter</a> account and Eric Jome controls the <a href="https://www.facebook.com/groups/2261144717/">Protospiel Facebook group</a>.</p>
     
     <h2>What types of games are usually represented?</h2>
     
